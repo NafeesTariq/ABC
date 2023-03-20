@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">952707818398-9e4t2kjkuv5jimpkr4c7onqdr6gtjje2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">952707818398</string>
+    <string name="google_api_key" translatable="false">AIzaSyAwqaQQtophYYpWqW7lpbv4kDqJfFxcbJs</string>
+    <string name="google_app_id" translatable="false">1:952707818398:android:61d9a113e69e3c3e8dac8f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAwqaQQtophYYpWqW7lpbv4kDqJfFxcbJs</string>
+    <string name="google_storage_bucket" translatable="false">viewbosterhamza-871d7.appspot.com</string>
+    <string name="project_id" translatable="false">viewbosterhamza-871d7</string>
+</resources>
